@@ -1,2 +1,1 @@
-# -
-C#
+Debug.Log(Wzj)#
